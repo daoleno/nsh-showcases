@@ -1,0 +1,24 @@
+{
+  "id": "mewla",
+  "name": "Mewla",
+  "author": "daoleno",
+  "description": "An open-source app that leads a team of AI coding agents (Claude Code, Codex, Pi and others) on your own computer. Tell Brain the goal: it runs the agents in parallel and calls you only when it matters. Answer from your phone, or read any agent's terminal as a chat.",
+  "category": "work",
+  "platforms": [
+    "iOS",
+    "Android",
+    "Web"
+  ],
+  "website": "https://mewla.ai",
+  "source": "https://github.com/daoleno/mewla",
+  "publishedAt": "2026-11-19T16:45:20Z",
+  "previews": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png",
+    "preview3.png",
+    "preview4.png",
+    "preview5.png",
+    "preview6.png"
+  ]
+}
